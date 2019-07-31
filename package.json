@@ -1,0 +1,51 @@
+{
+  "name": "reduxexample",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@thewillhuang/react-org-chart": "^0.1.10",
+    "antd": "^3.19.1",
+    "css-loader": "^3.0.0",
+    "d3": "^5.5.0",
+    "d3-org-chart": "^1.0.10",
+    "history": "^4.9.0",
+    "orgchart": "^2.1.2",
+    "r-orgchart": "^0.0.6",
+    "rc-org-chart": "^1.0.6",
+    "react": "^16.8.6",
+    "react-d3-graph": "^2.0.2",
+    "react-dom": "^16.8.6",
+    "react-hierarchy-tree-graph": "^1.0.3",
+    "react-particles-js": "^2.6.0",
+    "react-redux": "^7.0.3",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-tree-graph": "^4.0.0",
+    "react-vertical-tree": "^1.1.7",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
