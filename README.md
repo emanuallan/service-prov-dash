@@ -1,6 +1,3 @@
-DEMO: 
-
-
 <div align="center">
 <img src="https://i.ibb.co/MPrm63d/Screen-Shot-2019-09-16-at-3-56-51-PM.png" alt="Screen-Shot-2019-09-16-at-3-56-51-PM" border="0">
 </div>
